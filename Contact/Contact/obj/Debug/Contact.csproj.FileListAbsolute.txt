@@ -1,0 +1,7 @@
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Contact\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Contact\Contact\obj\Debug\Contact.pdb

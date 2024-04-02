@@ -1,0 +1,7 @@
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Account\Account\bin\Debug\Account.exe.config
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Account\Account\bin\Debug\Account.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Account\Account\bin\Debug\Account.pdb
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Account\Account\obj\Debug\Account.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Account\Account\obj\Debug\Account.pdb

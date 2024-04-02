@@ -1,0 +1,7 @@
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Students\Students\bin\Debug\Students.exe.config
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Students\Students\bin\Debug\Students.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Students\Students\bin\Debug\Students.pdb
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Students\Students\obj\Debug\Students.csproj.AssemblyReference.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Students\Students\obj\Debug\Students.exe
+C:\Users\CC\OneDrive\Desktop\MUT\Channel\Students\Students\obj\Debug\Students.pdb
